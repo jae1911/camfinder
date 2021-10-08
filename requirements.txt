@@ -1,0 +1,12 @@
+certifi==2021.5.30
+charset-normalizer==2.0.4
+click==8.0.1
+click-plugins==1.1.1
+colorama==0.4.4
+idna==3.2
+numpy==1.21.1
+opencv-python==4.5.3.56
+requests==2.26.0
+shodan==1.25.0
+urllib3==1.26.6
+XlsxWriter==1.4.5
